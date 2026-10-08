@@ -1,6 +1,6 @@
 {
  "version": 1,
- "generatedAt": "2026-10-08T10:18:47+00:00",
+ "generatedAt": "2026-10-08T10:20:13+00:00",
  "stores": [
   {
    "id": "migros",
@@ -8,7 +8,7 @@
    "ok": true,
    "deals": 168,
    "source": "aktionis",
-   "fetchedAt": "2026-10-08T10:17:51+00:00"
+   "fetchedAt": "2026-10-08T10:19:25+00:00"
   },
   {
    "id": "coop",
@@ -16,7 +16,7 @@
    "ok": true,
    "deals": 1109,
    "source": "aktionis",
-   "fetchedAt": "2026-10-08T10:18:34+00:00"
+   "fetchedAt": "2026-10-08T10:20:02+00:00"
   },
   {
    "id": "denner",
@@ -24,7 +24,7 @@
    "ok": true,
    "deals": 295,
    "source": "aktionis",
-   "fetchedAt": "2026-10-08T10:18:45+00:00"
+   "fetchedAt": "2026-10-08T10:20:12+00:00"
   },
   {
    "id": "spar",
@@ -32,7 +32,7 @@
    "ok": true,
    "deals": 17,
    "source": "aktionis",
-   "fetchedAt": "2026-10-08T10:18:47+00:00"
+   "fetchedAt": "2026-10-08T10:20:13+00:00"
   }
  ],
  "deals": [
@@ -2830,7 +2830,7 @@
    "validTo": "2026-10-14",
    "image": "https://storage.cpstatic.ch/storage/deal_card_defaultx2/omo-flussig-universal-100-waschgange-a15c2264--1516197.webp",
    "url": "https://www.aktionis.ch/deals/omo-flussig-universal-100-waschgange-26",
-   "category": "Snacks & Süsswaren",
+   "category": "Haushalt",
    "source": "aktionis"
   },
   {
@@ -6559,7 +6559,7 @@
    "validTo": "2026-10-14",
    "image": "https://storage.cpstatic.ch/storage/deal_card_defaultx2/fol-epi-classic-24-scheiben-fa910390--1516546.webp",
    "url": "https://www.aktionis.ch/deals/fol-epi-classic-24-scheiben-11",
-   "category": "Sonstiges",
+   "category": "Milch, Käse & Eier",
    "source": "aktionis"
   },
   {
@@ -6739,7 +6739,7 @@
    "validTo": "2026-10-14",
    "image": "https://storage.cpstatic.ch/storage/deal_card_defaultx2/vanish-gold-oxi-action-2x250g-kombi-b451a893--1516566.webp",
    "url": "https://www.aktionis.ch/deals/vanish-gold-oxi-action-2x250g-kombi-2",
-   "category": "Sonstiges",
+   "category": "Haushalt",
    "source": "aktionis"
   },
   {
@@ -6843,7 +6843,7 @@
    "validTo": "2026-10-14",
    "image": "https://storage.cpstatic.ch/storage/deal_card_defaultx2/softlan-magnolia-lavendel-59-waschgange-2x-13l-278503d8--1522903.webp",
    "url": "https://www.aktionis.ch/deals/softlan-magnolia-lavendel-59-waschgange-2x-13l-25",
-   "category": "Sonstiges",
+   "category": "Haushalt",
    "source": "aktionis"
   },
   {
@@ -7981,7 +7981,7 @@
    "validTo": "2026-10-14",
    "image": "https://storage.cpstatic.ch/storage/deal_card_defaultx2/vanish-gold-oxi-pulver-pink-d8a9dc70--1516560.webp",
    "url": "https://www.aktionis.ch/deals/vanish-gold-oxi-pulver-pink-54",
-   "category": "Sonstiges",
+   "category": "Haushalt",
    "source": "aktionis"
   },
   {
@@ -7996,7 +7996,7 @@
    "validTo": "2026-10-14",
    "image": "https://storage.cpstatic.ch/storage/deal_card_defaultx2/vanish-gold-oxi-pulver-weiss-45b367d2--1516559.webp",
    "url": "https://www.aktionis.ch/deals/vanish-gold-oxi-pulver-weiss-49",
-   "category": "Sonstiges",
+   "category": "Haushalt",
    "source": "aktionis"
   },
   {
@@ -8026,7 +8026,7 @@
    "validTo": "2026-10-14",
    "image": "https://storage.cpstatic.ch/storage/deal_card_defaultx2/vanish-gold-oxi-advance-gel-color-2x750ml-9f4b4f55--1516554.webp",
    "url": "https://www.aktionis.ch/deals/vanish-gold-oxi-advance-gel-color-2x750ml-2",
-   "category": "Sonstiges",
+   "category": "Haushalt",
    "source": "aktionis"
   },
   {
@@ -8041,7 +8041,7 @@
    "validTo": "2026-10-14",
    "image": "https://storage.cpstatic.ch/storage/deal_card_defaultx2/vanish-oxi-action-vorwaschspray-2x-750ml-d1c548ab--1516535.webp",
    "url": "https://www.aktionis.ch/deals/vanish-oxi-action-vorwaschspray-2x-750ml-17",
-   "category": "Sonstiges",
+   "category": "Haushalt",
    "source": "aktionis"
   },
   {
@@ -8114,7 +8114,7 @@
    "validTo": "2026-10-14",
    "image": "https://storage.cpstatic.ch/storage/deal_card_defaultx2/perwoll-helles-52-waschgange-f8a6179f--1522948.webp",
    "url": "https://www.aktionis.ch/deals/perwoll-helles-52-waschgange-2",
-   "category": "Sonstiges",
+   "category": "Haushalt",
    "source": "aktionis"
   },
   {
